@@ -8,6 +8,13 @@
       "when": 1788949460767,
       "tag": "0000_bright_bastion",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789009872522,
+      "tag": "0001_nebulous_kang",
+      "breakpoints": true
     }
   ]
 }

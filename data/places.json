@@ -1,0 +1,209 @@
+[
+  {
+    "place": "Manali",
+    "experienceTags": ["adventure", "hill station"],
+    "bestDuration": "3-4 days",
+    "attractions": ["Solang Valley", "Rohtang Pass", "Hidimba Devi Temple", "Old Manali"],
+    "activities": ["paragliding", "river rafting on the Beas", "trekking", "skiing (winter)"],
+    "food": ["Himachali thali", "trout fish", "siddu"],
+    "tips": "Best March-June and Oct-Feb for snow; carry warm clothes for Rohtang Pass, permits may be needed."
+  },
+  {
+    "place": "Leh-Ladakh",
+    "experienceTags": ["adventure", "offbeat", "nature"],
+    "bestDuration": "6-7 days",
+    "attractions": ["Pangong Tso", "Nubra Valley", "Magnetic Hill", "Thiksey Monastery", "Khardung La"],
+    "activities": ["motorbiking mountain passes", "camel safari in Nubra", "monastery visits", "camping by Pangong Lake"],
+    "food": ["thukpa", "momos", "butter tea"],
+    "tips": "Visit June-September when roads are open; spend a day acclimatizing to altitude before sightseeing."
+  },
+  {
+    "place": "Rishikesh",
+    "experienceTags": ["adventure", "spiritual"],
+    "bestDuration": "3-4 days",
+    "attractions": ["Laxman Jhula", "Ram Jhula", "Triveni Ghat", "Beatles Ashram"],
+    "activities": ["white-water rafting", "bungee jumping", "yoga and meditation retreats", "evening Ganga Aarti"],
+    "food": ["satvik thali", "aloo puri", "fresh lassi"],
+    "tips": "Alcohol and meat are restricted in most of the town; book rafting slots a day ahead in peak season."
+  },
+  {
+    "place": "Jaipur",
+    "experienceTags": ["heritage", "culture"],
+    "bestDuration": "2-3 days",
+    "attractions": ["Amber Fort", "Hawa Mahal", "City Palace", "Jantar Mantar", "Nahargarh Fort"],
+    "activities": ["heritage walks", "elephant/jeep ride to Amber Fort", "shopping in Johari Bazaar", "puppet shows"],
+    "food": ["dal baati churma", "pyaaz kachori", "ghewar"],
+    "tips": "Visit forts early morning to avoid crowds and heat; best season is October-March."
+  },
+  {
+    "place": "Udaipur",
+    "experienceTags": ["heritage", "romantic"],
+    "bestDuration": "2-3 days",
+    "attractions": ["City Palace", "Lake Pichola", "Jag Mandir", "Saheliyon ki Bari"],
+    "activities": ["boat ride on Lake Pichola", "sunset at Monsoon Palace", "heritage hotel stays"],
+    "food": ["dal baati churma", "kachori", "rajasthani thali"],
+    "tips": "Book a lake-facing rooftop restaurant for sunset; October-March has the most pleasant weather."
+  },
+  {
+    "place": "Jaisalmer",
+    "experienceTags": ["desert", "adventure", "heritage"],
+    "bestDuration": "2-3 days",
+    "attractions": ["Jaisalmer Fort", "Sam Sand Dunes", "Patwon ki Haveli", "Gadisar Lake"],
+    "activities": ["camel safari", "desert camping under stars", "jeep dune-bashing", "folk music nights"],
+    "food": ["ker sangri", "bajre ki roti", "rajasthani thali"],
+    "tips": "Best November-February; summers are extremely hot. Book desert camps in advance during peak season."
+  },
+  {
+    "place": "Goa",
+    "experienceTags": ["beach", "relaxing", "nightlife"],
+    "bestDuration": "3-5 days",
+    "attractions": ["Baga Beach", "Fort Aguada", "Basilica of Bom Jesus", "Anjuna Flea Market"],
+    "activities": ["water sports", "beach parties", "scuba diving", "sunset cruises"],
+    "food": ["fish curry rice", "bebinca", "prawn balchão"],
+    "tips": "North Goa is livelier/nightlife-focused, South Goa is quieter and more relaxing; visit Nov-Feb for best weather."
+  },
+  {
+    "place": "Gokarna",
+    "experienceTags": ["beach", "relaxing", "offbeat"],
+    "bestDuration": "2-3 days",
+    "attractions": ["Om Beach", "Kudle Beach", "Mahabaleshwar Temple", "Half Moon Beach"],
+    "activities": ["beach hopping trek", "yoga by the sea", "cliff camping"],
+    "food": ["seafood thali", "coconut-based curries"],
+    "tips": "Quieter and more laid-back than Goa; some beaches are reachable only by a short trek or boat."
+  },
+  {
+    "place": "Munnar",
+    "experienceTags": ["hill station", "relaxing", "nature"],
+    "bestDuration": "2-3 days",
+    "attractions": ["tea gardens", "Eravikulam National Park", "Mattupetty Dam", "Top Station viewpoint"],
+    "activities": ["tea plantation walks", "spice plantation tours", "trekking", "wildlife spotting"],
+    "food": ["Kerala sadya", "appam with stew", "fresh spiced tea"],
+    "tips": "Cool climate year-round; carry a light jacket even in summer. September-March is ideal."
+  },
+  {
+    "place": "Alleppey (Alappuzha)",
+    "experienceTags": ["backwaters", "relaxing", "romantic"],
+    "bestDuration": "2-3 days",
+    "attractions": ["Alleppey backwaters", "Vembanad Lake", "Alappuzha Beach"],
+    "activities": ["houseboat stay", "canoeing through canals", "village walks"],
+    "food": ["Kerala sadya", "karimeen (pearl spot fish) fry", "appam"],
+    "tips": "An overnight houseboat stay is the highlight; book well ahead in December-January peak season."
+  },
+  {
+    "place": "Varanasi",
+    "experienceTags": ["spiritual", "heritage", "culture"],
+    "bestDuration": "2-3 days",
+    "attractions": ["Dashashwamedh Ghat", "Kashi Vishwanath Temple", "Sarnath", "Assi Ghat"],
+    "activities": ["evening Ganga Aarti", "sunrise boat ride", "old-city walking tours"],
+    "food": ["kachori sabzi", "banarasi paan", "lassi"],
+    "tips": "Sunrise boat rides are best for photography and quiet; the ghats get crowded at Aarti time."
+  },
+  {
+    "place": "Agra",
+    "experienceTags": ["heritage", "culture"],
+    "bestDuration": "1-2 days",
+    "attractions": ["Taj Mahal", "Agra Fort", "Fatehpur Sikri", "Mehtab Bagh"],
+    "activities": ["sunrise Taj Mahal visit", "heritage walking tours"],
+    "food": ["petha", "mughlai cuisine", "bedhai with sabzi"],
+    "tips": "Visit the Taj Mahal at sunrise for fewer crowds and cooler weather; closed on Fridays."
+  },
+  {
+    "place": "Hampi",
+    "experienceTags": ["heritage", "offbeat", "adventure"],
+    "bestDuration": "2-3 days",
+    "attractions": ["Virupaksha Temple", "Vittala Temple stone chariot", "Hampi boulders", "Matanga Hill"],
+    "activities": ["cycling among ruins", "bouldering", "sunset at Matanga Hill", "coracle rides"],
+    "food": ["South Indian thali", "banana-based local snacks"],
+    "tips": "Rent a bicycle or scooter to cover the spread-out ruins; October-February has pleasant weather."
+  },
+  {
+    "place": "Coorg (Kodagu)",
+    "experienceTags": ["hill station", "nature", "relaxing"],
+    "bestDuration": "2-3 days",
+    "attractions": ["Abbey Falls", "Raja's Seat", "Dubare Elephant Camp", "coffee estates"],
+    "activities": ["coffee plantation walks", "river rafting on the Barapole", "trekking to Tadiandamol"],
+    "food": ["pandi curry (pork)", "kadumbuttu", "filter coffee"],
+    "tips": "Known as the 'Coffee Land of India'; monsoon (June-Sept) is lush but trekking trails can be slippery."
+  },
+  {
+    "place": "Darjeeling",
+    "experienceTags": ["hill station", "nature", "relaxing"],
+    "bestDuration": "2-3 days",
+    "attractions": ["Tiger Hill sunrise", "Darjeeling Himalayan Railway", "tea gardens", "Batasia Loop"],
+    "activities": ["toy train ride", "tea garden tours", "monastery visits"],
+    "food": ["momos", "thukpa", "Darjeeling tea"],
+    "tips": "Tiger Hill sunrise (Kanchenjunga view) requires an early 4am start; best March-May and Oct-Dec."
+  },
+  {
+    "place": "Shillong",
+    "experienceTags": ["hill station", "nature", "offbeat"],
+    "bestDuration": "3-4 days",
+    "attractions": ["Umiam Lake", "Elephant Falls", "Living Root Bridges (Cherrapunji)", "Shillong Peak"],
+    "activities": ["trekking to living root bridges", "waterfall hopping", "cave exploring"],
+    "food": ["jadoh", "smoked pork", "local Khasi cuisine"],
+    "tips": "Cherrapunji day trips need a full day; carry rain gear as this is one of the wettest regions in the world."
+  },
+  {
+    "place": "Rann of Kutch",
+    "experienceTags": ["desert", "offbeat", "culture"],
+    "bestDuration": "2-3 days",
+    "attractions": ["White Rann salt desert", "Kalo Dungar", "handicraft villages", "Rann Utsav tent city"],
+    "activities": ["full-moon desert walks", "camel cart rides", "folk dance and music evenings"],
+    "food": ["Gujarati thali", "dabeli", "fafda-jalebi"],
+    "tips": "Best visited Nov-Feb during the Rann Utsav festival; the white desert is most striking under full moon."
+  },
+  {
+    "place": "Ranthambore",
+    "experienceTags": ["wildlife", "adventure"],
+    "bestDuration": "2 days",
+    "attractions": ["Ranthambore National Park", "Ranthambore Fort", "Padam Talao lake"],
+    "activities": ["jeep/canter tiger safaris", "fort exploration", "bird watching"],
+    "food": ["rajasthani thali", "laal maas"],
+    "tips": "Book safaris well in advance; early morning slots have better tiger-sighting chances. Best Oct-June."
+  },
+  {
+    "place": "Mysore",
+    "experienceTags": ["heritage", "culture"],
+    "bestDuration": "1-2 days",
+    "attractions": ["Mysore Palace", "Chamundi Hills", "Brindavan Gardens", "Devaraja Market"],
+    "activities": ["palace illumination viewing (Sun/holidays)", "heritage walks", "local market shopping"],
+    "food": ["Mysore masala dosa", "Mysore pak"],
+    "tips": "Visit during Dussehra for the grandest palace celebrations; palace is illuminated Sunday evenings."
+  },
+  {
+    "place": "Pondicherry",
+    "experienceTags": ["relaxing", "culture", "beach"],
+    "bestDuration": "2-3 days",
+    "attractions": ["French Quarter", "Promenade Beach", "Auroville", "Paradise Beach"],
+    "activities": ["cycling the French Quarter", "cafe hopping", "Auroville meditation visit"],
+    "food": ["French-influenced cafes", "South Indian filter coffee", "seafood"],
+    "tips": "The French Quarter is best explored on foot or bicycle in the early morning or evening."
+  },
+  {
+    "place": "Spiti Valley",
+    "experienceTags": ["adventure", "offbeat", "nature"],
+    "bestDuration": "6-7 days",
+    "attractions": ["Key Monastery", "Chandratal Lake", "Kaza", "Pin Valley"],
+    "activities": ["high-altitude road trip", "monastery visits", "camping by Chandratal"],
+    "food": ["thukpa", "momos", "local Himachali fare"],
+    "tips": "Roads open roughly June-October; carry cash and fuel reserves as facilities are sparse between towns."
+  },
+  {
+    "place": "Dharamshala (McLeod Ganj)",
+    "experienceTags": ["hill station", "spiritual", "offbeat"],
+    "bestDuration": "3-4 days",
+    "attractions": ["Namgyal Monastery", "Bhagsu Waterfall", "Triund trek", "Tibet Museum"],
+    "activities": ["Triund day trek", "monastery and meditation visits", "Tibetan market shopping"],
+    "food": ["Tibetan momos and thukpa", "Himachali dham"],
+    "tips": "Triund trek is doable in a day for moderately fit travelers; carry layers as weather shifts quickly."
+  },
+  {
+    "place": "Andaman Islands (Havelock)",
+    "experienceTags": ["beach", "adventure", "relaxing"],
+    "bestDuration": "4-5 days",
+    "attractions": ["Radhanagar Beach", "Elephant Beach", "Cellular Jail (Port Blair)", "Neil Island"],
+    "activities": ["scuba diving and snorkeling", "sea walking", "island hopping by ferry"],
+    "food": ["fresh seafood", "coconut-based curries"],
+    "tips": "Book inter-island ferries in advance in peak season (Dec-Jan); best visited Oct-May."
+  }
+]

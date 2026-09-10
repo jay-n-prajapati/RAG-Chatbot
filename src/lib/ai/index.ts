@@ -8,6 +8,6 @@ import { GoogleGenAI } from "@google/genai";
 export const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
 export const EMBEDDING_MODEL =
-  process.env.GEMINI_EMBEDDING_MODEL ?? "text-embedding-004";
+  process.env.GEMINI_EMBEDDING_MODEL ?? "gemini-embedding-001";
 export const GENERATION_MODEL =
-  process.env.GEMINI_GENERATION_MODEL ?? "gemini-2.0-flash";
+  process.env.GEMINI_GENERATION_MODEL ?? "gemini-3.6-flash";
